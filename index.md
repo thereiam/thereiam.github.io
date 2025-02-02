@@ -7,6 +7,8 @@ title: Home
 
 Hello! I'm a tech enthusiast based in Luxembourg.
 
+[See my profile on LinkedIn](https://lu.linkedin.com/in/samuel-lemoine-b94b91191)
+
 ---
 
 ## Android Mobile Application
@@ -19,8 +21,8 @@ Argon2Id, SCrypt, and PBKDF2 are used to create a derived key from a user-provid
 
 See more below:
 
-[See the Android app in Google Playstore](https://play.google.com/store/apps/details?id=com.monks.banalapps.encryptator)
-
 [See the developer Android app page](https://banalapps.github.io)
+
+[See the Android app in Google Playstore](https://play.google.com/store/apps/details?id=com.monks.banalapps.encryptator)
 
 ---
