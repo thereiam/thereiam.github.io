@@ -1,0 +1,31 @@
+/* Dark mode styles for Minimal theme */
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+a {
+    color: #bb86fc;
+}
+
+a:hover {
+    color: #3700b3;
+}
+
+header, footer {
+    background-color: #1f1f1f;
+}
+
+.navbar {
+    background-color: #1f1f1f;
+}
+
+footer {
+    color: #bbb;
+}
+
+.container {
+    background-color: #1a1a1a;
+}
+
+/* Add any other specific customizations here */
