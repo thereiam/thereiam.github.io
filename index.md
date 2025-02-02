@@ -3,19 +3,25 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Website
+# Welcome to my Github Page
 
-Hello! I'm **John Doe**, a software developer and tech enthusiast.
+Hello! I'm a tech enthusiast based in Luxembourg.
 
-This is my personal website where I showcase my projects, blog posts, and share some thoughts.
+Here I share some insights about myself
 
 ---
 
-## Latest Projects
+## Android Mobile Application
 
-Here are some of my recent projects:
+I created an Android application to secure your data using symmetric encryption algorithms.
 
-- [Project 1](projects.md#project-1) - A web application I built using React.
-- [Project 2](projects.md#project-2) - A mobile app I created with Flutter.
+The application leverages AES/GCM and ChaChaPoly1305 to encrypt the data.
+
+Argon2Id, SCrypt, and PBKDF2 are used to create a derived key from a user-provided password.
+
+See more below:
+
+[See the Android app in Google Playstore] (https://play.google.com/store/apps/details?id=com.monks.banalapps.encryptator)
+[See the developer Android app page] (https://banalapps.github.io)
 
 ---
