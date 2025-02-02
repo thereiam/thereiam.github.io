@@ -2,7 +2,8 @@ title: "Hello World"
 description: "A test page for myself."
 baseurl: ""
 url: "https://thereiam.github.io"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-darlky
+sidebar: none
 navbar:
   - title: "Home"
     url: "/"
