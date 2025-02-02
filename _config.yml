@@ -2,9 +2,7 @@ title: "Hello World"
 description: "A test page for myself."
 baseurl: ""
 url: "https://thereiam.github.io"
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
+theme: minima
 minima:
   skin: dark
 sidebar: none
