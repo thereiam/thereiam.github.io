@@ -2,10 +2,7 @@ title: "There_I_Am"
 description: "A test page for myself."
 baseurl: "https://thereiam.github.io"
 url: "https://thereiam.github.io"
-theme: jekyll-theme-hacker
-css: 
-  - "/assets/css/dark-mode.css"
-
+theme: jekyll-theme-minimal
 navbar:
   - title: "Home"
     url: "/"
