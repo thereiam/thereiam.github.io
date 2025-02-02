@@ -1,6 +1,6 @@
-title: "There_I_Am"
+title: "Hello World"
 description: "A test page for myself."
-baseurl: "https://thereiam.github.io"
+baseurl: ""
 url: "https://thereiam.github.io"
 theme: jekyll-theme-minimal
 navbar:
