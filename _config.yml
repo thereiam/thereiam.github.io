@@ -6,5 +6,5 @@ sidebar: none
 navbar:
   - title: "Home"
     url: "/"
-  - title: "Android Application"
-    url: "/android_application"
+  - title: "BanalApps"
+    url: "/banalapps"
