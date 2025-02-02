@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/light-mode.css" | relative_url }}">
+  <!-- Add link to dark mode CSS if you are using it -->
+  <link rel="stylesheet" href="{{ "/assets/css/dark-mode.css" | relative_url }}">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Website</h1>
+    <!-- You can add more navigation or branding here -->
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      <li><a href="{{ '/about' | relative_url }}">About</a></li>
+      <!-- Add more links as needed -->
+    </ul>
+  </nav>
+
+  <main>
+    <!-- This is where the content of each page is injected -->
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>© 2025 My Website</p>
+  </footer>
+
+  <!-- Include any JS for dark mode toggle if needed -->
+  <script>
+    // Dark mode toggle script here (same as previous example)
+  </script>
+</body>
+</html>
