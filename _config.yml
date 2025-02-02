@@ -1,0 +1,14 @@
+title: "John Doe's Portfolio"
+description: "A portfolio showcasing my work, projects, and blog posts."
+baseurl: ""
+url: "https://johndoe.github.io"
+theme: jekyll-theme-minimal  # You can change the theme here
+
+# Optional settings for navigation links
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
