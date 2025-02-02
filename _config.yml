@@ -1,14 +1,13 @@
-title: "John Doe's Portfolio"
-description: "A portfolio showcasing my work, projects, and blog posts."
-baseurl: ""
-url: "https://johndoe.github.io"
+title: "There_I_Am"
+description: "A test page for myself."
+baseurl: "https://thereiam.github.io"
+url: "https://thereiam.github.io"
 theme: jekyll-theme-minimal
-css: "/assets/css/dark-mode.css"
-# Optional settings for navigation links
+css: 
+  - "/assets/css/dark-mode.css"
+
 navbar:
   - title: "Home"
     url: "/"
-  - title: "About"
-    url: "/about"
   - title: "Projects"
     url: "/projects"
