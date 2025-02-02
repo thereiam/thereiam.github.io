@@ -20,7 +20,4 @@ Here are some of my recent projects:
 
 ---
 
-## About Me
-
-Check out my [about page](about.md) to learn more about my background and experience.
-
+<script src="{{ '/assets/js/theme-mode-toggle.js.js' | relative_url }}"></script>
