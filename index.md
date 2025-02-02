@@ -19,5 +19,3 @@ Here are some of my recent projects:
 - [Project 2](projects.md#project-2) - A mobile app I created with Flutter.
 
 ---
-
-<script src="{{ '/assets/js/theme-mode-toggle.js.js' | relative_url }}"></script>
