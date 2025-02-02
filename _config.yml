@@ -2,7 +2,7 @@ title: "John Doe's Portfolio"
 description: "A portfolio showcasing my work, projects, and blog posts."
 baseurl: ""
 url: "https://johndoe.github.io"
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 css: "/assets/css/dark-mode.css"
 # Optional settings for navigation links
 navbar:
