@@ -1,5 +1,7 @@
 # BanalApps
 
+## Encryptator
+
 I created an Android application to secure your data using symmetric encryption algorithms.
 
 The application leverages AES/GCM and ChaChaPoly1305 to encrypt the data.
