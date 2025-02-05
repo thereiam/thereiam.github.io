@@ -1,4 +1,5 @@
-### Encryptator
+### BanalApps
+#### Encryptator
 
 I created an Android application to secure your data using symmetric encryption algorithms.
 
