@@ -15,3 +15,5 @@ See more below:
 The application is still in Closed Testing. If you want to try it, please join the following Google Group, which will allow you to see and install the application.
 
 [Google Group for testers](https://groups.google.com/g/testers-community)
+
+You can visit the BanalApps website [here](https://banalapps.github.io/).
