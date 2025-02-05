@@ -9,12 +9,10 @@ Argon2Id, SCrypt, and PBKDF2 are used to create a derived key from a user-provid
 
 ---
 
+The application is still in Closed Testing. If you want to try it, please join the following [Google Group](https://groups.google.com/g/testers-community), which will allow you to see and install the application.
+
 [Developer Website](https://banalapps.github.io)
 
 [Google Playstore](https://play.google.com/store/apps/details?id=com.monks.banalapps.encryptator)
-
-
-The application is still in Closed Testing. If you want to try it, please join the following [Google Group](https://groups.google.com/g/testers-community), which will allow you to see and install the application.
-
 
 ---
