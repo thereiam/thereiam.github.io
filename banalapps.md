@@ -1,4 +1,7 @@
-# BanalApps
+---
+layout: default
+title: BanalApps
+---
 
 I created an Android application to secure your data using symmetric encryption algorithms.
 
