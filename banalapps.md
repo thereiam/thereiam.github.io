@@ -3,7 +3,7 @@
 
 I created an Android application to secure your data using symmetric encryption algorithms.
 
-The application leverages AES/GCM and ChaChaPoly1305 to encrypt the data.
+The application leverages AES/GCM and ChaCha20/Poly1305 to encrypt the data.
 
 Argon2Id, SCrypt, and PBKDF2 are used to create a derived key from a user-provided password.
 
