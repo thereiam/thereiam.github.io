@@ -3,6 +3,6 @@ baseurl: ""
 url: "https://thereiam.github.io"
 theme: minima
 sidebar: none
-navbar:
-  - title: "Home"
-    url: "/"
+navbar: none
+#  - title: "Home"
+#    url: "/"
