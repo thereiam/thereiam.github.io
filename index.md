@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to my Github Page
+# Welcome to my personal page
 
 Hello! I'm a tech enthusiast and **IT Security Engineer** based in **Luxembourg**.
 
