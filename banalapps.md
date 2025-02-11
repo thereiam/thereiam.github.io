@@ -3,9 +3,17 @@
 
 I created an Android application to secure your data using symmetric encryption algorithms.
 
-The application leverages AES/GCM and ChaCha20/Poly1305 to encrypt the data.
+The application leverages **AES/GCM** and **ChaCha20/Poly1305** to encrypt the data.
 
-Argon2Id, SCrypt, and PBKDF2 are used to create a derived key from a user-provided password.
+**Argon2Id**, **SCrypt**, and **PBKDF2** are used to create a derived key from a user-provided password.
+
+The choice of algorithms and encryption parameters is based on the OWASP Cheat Sheet Series best-practices.
+
+[OWASP Cheat Sheet Series - Password Storage](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+
+[OWASP Cheat Sheet Series - Secrets Management](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html#71-encryption-types-to-use)
+
+[OWASP Cheat Sheet Series - Cryptographic Storage](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html)
 
 ---
 
