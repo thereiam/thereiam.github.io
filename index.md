@@ -5,9 +5,9 @@ title: Home
 
 # Welcome to my Github Page
 
-Hello! I'm a tech enthusiast and IT Security Engineer based in Luxembourg.
+Hello! I'm a tech enthusiast and **IT Security Engineer** based in **Luxembourg**.
 
-A personal project I have been working on since some time now is Encryptator, an Android application to perform symmetric encryption operations.
+A personal project I have been working on since some time now is **Encryptator**, an Android application to perform symmetric encryption operations.
 
 Don't hesitate to read the details [here](https://thereiam.github.io/banalapps.html) if you would like to test it.
 
