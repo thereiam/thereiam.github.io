@@ -5,7 +5,7 @@ title: Christmas - Angel
 
 # French Today - Angel
 
-**Bonjour Angel,**
+**Joyeux Noël Angel,**
 
 **You have been gifted a French Today audiobook.**
 
