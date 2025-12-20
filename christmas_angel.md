@@ -3,7 +3,7 @@ layout: default
 title: Christmas - Angel
 ---
 
-# Mashal
+# Angel
 
 **Bonjour Angel,**
 
@@ -11,7 +11,7 @@ title: Christmas - Angel
 
 An account has already been created on the frenchtoday.com website with your email address, but you will need to create a new password to access it.
 
-You can do this easily by going to [FrenchToday - Lost Password](https://www.frenchtoday.com/my-account/lost-password/) and entering your email address [mashalbhatti@gmail.com](mailto:1997.adcrz@gmail.com) then following the reset steps.
+You can do this easily by going to [FrenchToday - Lost Password](https://www.frenchtoday.com/my-account/lost-password/) and entering your email address [1997.adcrz@gmail.com](mailto:1997.adcrz@gmail.com) then following the reset steps.
 
 Once you have created your password, download your audiobook using any of our free French Today audiobook player apps available on iOS, Android, Mac or Windows.
 
