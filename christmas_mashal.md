@@ -3,7 +3,7 @@ layout: default
 title: Christmas - Mashal
 ---
 
-# Mashal
+# French Today - Mashal
 
 **Bonjour Mashal,**
 
