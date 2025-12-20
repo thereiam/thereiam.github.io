@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christmas
+title: Christmas - Mashal
 ---
 
 # Mashal
